@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yDUSY3BwgNg8ECOJXY4J0Lt+zLFwqLn7BTZLqAdJcGaHjNjMLVWb7V6dX1UObKUKcq9DPdwJLAOdZflXviL7vA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\20211011110011\\source\\repos\\questao1-lista4\\questao1-lista4\\questao1-lista4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\20211011110011\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
