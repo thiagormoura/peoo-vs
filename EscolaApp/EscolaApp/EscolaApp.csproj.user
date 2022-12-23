@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="janelaaluno.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="janeladiario.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="janelamatricula.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="janelaturma.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="janelaaluno.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="janeladiario.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="janelamatricula.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="janelaturma.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
